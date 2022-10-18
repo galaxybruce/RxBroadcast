@@ -2,7 +2,7 @@ package com.cantrowitz.rxbroadcast;
 
 import android.content.BroadcastReceiver;
 import android.content.IntentFilter;
-import android.support.v4.content.LocalBroadcastManager;
+import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 /**
  * Created by adamcantrowitz on 9/1/15.
